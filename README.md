@@ -50,16 +50,7 @@ You can use our pre-trained models from: <a href="https://pan.baidu.com/s/11BH-J
     python test.py
 The rusults are saved in ./results/
 
-## Training
-If you want to retrain the model, or train it on your own dataset, and run the following commands:
-
-    python train.py 
-    
-## Thanks
-Our code is based on [TCTL-Net](https://trentqq.github.io/TCTL-Net.html) and [P2C-Net](https://github.com/Ray2OUC/P2CNet). You can refer to their README files and source code for more implementation details. 
-
-##  Citation
-If you find our work useful for your research, please consider citing the paper.
+## When the paper is accepted, we release the relevant code.
 
 
 
