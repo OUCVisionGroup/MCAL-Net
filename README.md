@@ -2,7 +2,7 @@
   
 # MCAL-Net: Multi-Space Color Compensation and Adaptive Luminance Transfer Network for Underwater Images
 
-<font size=5>Wenjie Liu, Zhou Ge*, Kunqian Li and Dalei Song
+<font size=5>Wenjie Liu, Zhou Ge*, Shaixin Liu, Kunqian Li and Dalei Song
  <div>
     <h4 align="center">
         <a href="" target='_blank'>[Paper]</a>
