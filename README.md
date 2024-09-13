@@ -45,8 +45,8 @@ nance transfer and multiple color space feature encoding.</font>
 - Other required packages in `requirements.txt`
 
 ## Testing steps
-You can use our pre-trained models from: <a href="https://pan.baidu.com/s/11BH-JusDxpHPb7EIuGgDYQ?from=init&pwd=2p0n" target='_blank'>[model]</a>, and run the following commands:
- 
+You can select the underwater images to be tested from the UIEB dataset from: <a href= "https://li-chongyi.github.io/proj_benchmark.html" target='_blank'>[UIEB]</a>, and use our pre-trained models from: <a href="https://pan.baidu.com/s/11BH-JusDxpHPb7EIuGgDYQ?from=init&pwd=2p0n" target='_blank'>[model]</a>, and run the following commands:
+
     python test.py
 The rusults are saved in ./results/
 
